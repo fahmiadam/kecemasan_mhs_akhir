@@ -11,9 +11,13 @@ Ini merupakan hasil proyek Tugas Akhir yang dibuat guna menyelesaikan pendidikan
 Analisis Kebutuhan
 ------------------
 Python 3.1.2
+
 Numpy 1.26.2
+
 pandas 2.1.4
+
 streamlit 1.29.0
+
 scikit-learn 1.3.2
 
 Demo Program
